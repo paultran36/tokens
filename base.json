@@ -1,6 +1,6 @@
 {
   "global": {},
-  "global/base": {
+  "global/global": {
     "color": {
       "red": {
         "10": {
@@ -1256,7 +1256,7 @@
       }
     }
   },
-  "semantic/base": {
+  "semantic/semantic": {
     "color": {
       "surface": {
         "neutral": {
@@ -2134,7 +2134,7 @@
       }
     }
   },
-  "component/base": {
+  "component/component": {
     "button": {
       "color": {
         "secondary": {
@@ -5530,10 +5530,10 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "global/base",
+      "global/global",
       "global/wireframe",
-      "semantic/base",
-      "component/base"
+      "semantic/semantic",
+      "component/component"
     ]
   }
 }
